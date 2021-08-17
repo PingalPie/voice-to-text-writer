@@ -1,0 +1,5 @@
+1. Download and Install Python 3. Link to download: https://www.python.org/downloads/
+2. Open Command Prompt in this Folder
+3. Write pip install -r requirerments.txt
+4. Now open main.py
+4. And there you go it will write whatever you will speak!
