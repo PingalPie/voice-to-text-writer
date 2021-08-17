@@ -1,0 +1,2 @@
+pyautogui
+speech_recognition
